@@ -666,7 +666,7 @@ a:hover {
   bottom: 15px;
   left: 15px;
   padding: 10px 0;
-  background-color: #fff;
+  background-color: rgb(7, 1, 1);
   overflow-y: auto;
   transition: 0.3s;
 }
